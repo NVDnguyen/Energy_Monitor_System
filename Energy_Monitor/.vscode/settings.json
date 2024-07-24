@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "config.h": "c",
+        "sim.h": "c",
+        "atomic": "cpp",
+        "esp8266wifi.h": "c"
+    }
+}

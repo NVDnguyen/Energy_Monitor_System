@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "334154010668",
+    "firebase_url": "https://demometter-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "demometter",
+    "storage_bucket": "demometter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334154010668:android:e849bc5580b428920a4189",
+        "android_client_info": {
+          "package_name": "com.example.iot_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPNJ7IEzJPt_RcSr8OtwhQEVIrHnG3oy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
