@@ -16,7 +16,7 @@
 #include <WiFiManager.h>
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyDO7QsBc5frdD6xl96FbLiLecF1lrucbY4"
+#define API_KEY "******"
 // Insert RTDB URL
 #define DATABASE_URL "https://demometter-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
