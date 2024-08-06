@@ -4,7 +4,7 @@
 This project develops a smart energy monitoring system using either ESP8266 , connecting to Firebase to store and analyze consumed energy data. This system measures voltage, current, power, and frequency, and it is capable of alerting when power consumption exceeds predetermined thresholds.
 
 ## Key Components
-- `get_power.h`: Defines functions to read values from energy sensors.
+- `get_power.h`: Defines functions to read values from PZEM004T.
 - `sim.h`: Defines functions for communication with the A7680C module, including sending SMS and making calls.
 - `config.h`: Contains configuration definitions for the project, including network parameters and Firebase.
 
